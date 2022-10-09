@@ -22,3 +22,9 @@ Feel free to message me diana.portillo01@gmail for any contributions or question
 
 ## Acknowledgemnts
 Worked with peer Uday Gautam
+
+## Deployed App
+
+![Screen Shot 2022-10-09 at 3 53 37 PM](https://user-images.githubusercontent.com/102496344/194783329-abaf194c-54ef-4e88-892b-fbc89f6c0028.png)
+![Screen Shot 2022-10-09 at 3 56 12 PM](https://user-images.githubusercontent.com/102496344/194783427-0fdd9cc9-dfe2-4bf0-8507-0f43f12785e7.png)
+![Screen Shot 2022-10-09 at 3 56 24 PM](https://user-images.githubusercontent.com/102496344/194783450-7512dfd7-2147-40cb-8735-607fa4614a70.png)
